@@ -1,0 +1,10 @@
+{
+    "port": 8006,
+    "ip_memoria": "127.0.0.1",
+    "port_memory": 8002,
+    "mount_dir": "mount_dir",
+    "block_size": 64,
+    "block_count": 1024,
+    "block_access_delay": 100,
+    "log_level": "DEBUG"
+}

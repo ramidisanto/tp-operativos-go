@@ -1,0 +1,12 @@
+{
+    "ip_memoria": "127.0.0.1",
+    "puerto_memoria": 8002,
+    "ip_kernel"  : "127.0.0.1",
+    "puerto_kernel": 8001,
+    "puerto"   : 8004,
+    "log_level": "DEBUG"
+}
+
+
+
+

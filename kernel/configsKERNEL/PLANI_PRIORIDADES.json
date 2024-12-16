@@ -1,0 +1,12 @@
+{
+    "puerto"  : 8001,
+    "ip_memoria": "127.0.0.1",
+    "puerto_memoria": 8002,
+    "ip_cpu"  : "127.0.0.1",
+    "puerto_cpu": 8004,
+    "algoritmo_planificacion"   : "PRIORIDADES",
+    "quantum" : 875,
+    "log_level": "DEBUG",
+    "size_inicial": 32,
+    "archivo_inicial": "PLANI_PROC"
+}
